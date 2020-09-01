@@ -5,7 +5,7 @@
         "node": "0.x"
     },
     "dependencies": {
-        "connect": "1.x",
+        "connect": "3.x",
         "sourcemint-platform-nodejs": "0.x",
         "sourcemint-loader-js": "0.x"
     }
